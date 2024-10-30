@@ -215,7 +215,8 @@ int main(){
 ![image](https://github.com/user-attachments/assets/39787fa1-e99d-45b9-a4bb-98c5ab4f9a05)
 
 ### 2-
-<img width="498" alt="Screenshot 2024-10-21 at 9 10 55 AM" src="https://github.com/user-attachments/assets/e7f633b4-af45-40da-abb8-b831f7d39907">
+
+![image](https://github.com/user-attachments/assets/bf77036f-58b1-41bc-a965-6d7616de707d)
 
 ### 3-
 
