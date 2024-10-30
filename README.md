@@ -85,16 +85,16 @@ using namespace std;
 
 // Parent Class-1
 class Vehicle {
-    public:string company = "Ford";
+    public:string company = "Ferrari";
     void type() {
-        cout << "Mustang" << endl;
+        cout << "Roma" << endl;
     }
 };
 
 // Parent Class-2
 class Specs {
 public:
-    string mileage = "8 km/l";
+    string mileage = "8.9 km/l";
     
     void colour() {
         cout << "Grey" << endl;
@@ -104,7 +104,7 @@ public:
 // Child Class (derived from both Vehicle and Specs)
 class Car : public Vehicle, public Specs {
 public:
-    string seater = "4 seater";
+    string seater = "2 seater";
 };
 
 int main() {
@@ -122,6 +122,9 @@ int main() {
 
 ### 3. Multilevel Inheritance 
 ```
+//Varun Pendem
+// PRN: 23070123149
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -129,23 +132,23 @@ using namespace std;
 // Parent Class-1
 class Food {
 public:
-    string cuisine = "Indian";
+    string cuisine = "Cuisine";
     
     void type() {
-        cout << "Asian" << endl;
+        cout << "Italian" << endl;
     }
 };
 
 // Child Class-1 (derived from Parent-1)
 class Dish : public Food {
 public:
-    string dish = "Biryani";
+    string dish = "Pasta";
 };
 
 // Child Class-2 (derived from Child-1)
 class Restaurant : public Dish {
 public:
-    string name = "Spice Kitchen";
+    string name = "Alto Vino";
 };
 
 int main() {
@@ -209,7 +212,7 @@ int main(){
 
 ## Outputs - 
 ### 1- 
-<img width="506" alt="Screenshot 2024-10-21 at 9 10 35 AM" src="https://github.com/user-attachments/assets/a73ab021-66f1-4837-be87-71627c2b8495">
+![image](https://github.com/user-attachments/assets/39787fa1-e99d-45b9-a4bb-98c5ab4f9a05)
 
 ### 2-
 <img width="498" alt="Screenshot 2024-10-21 at 9 10 55 AM" src="https://github.com/user-attachments/assets/e7f633b4-af45-40da-abb8-b831f7d39907">
