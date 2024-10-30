@@ -223,7 +223,9 @@ int main(){
 ![image](https://github.com/user-attachments/assets/d32e7695-6baa-4df9-977d-c1e99d13c11a)
 
 ### 4-
-<img width="490" alt="Screenshot 2024-10-21 at 9 11 40 AM" src="https://github.com/user-attachments/assets/901417e0-2285-465d-a1f0-6b91811ca84f">
+
+![image](https://github.com/user-attachments/assets/94399457-8f9b-4623-ad7c-7c2f18dfcfda)
+
 
 ## Conclusion 
 A useful object-oriented programming (OOP) technique in C++ is inheritance, which lets a class (also referred to as a derived class) inherit traits and actions (data members and member functions) from another class (referred to as the base class). It encourages flexibility, hierarchical relationships between classes, and reusing code. <BR>
