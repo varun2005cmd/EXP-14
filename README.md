@@ -218,7 +218,8 @@ int main(){
 <img width="498" alt="Screenshot 2024-10-21 at 9 10 55 AM" src="https://github.com/user-attachments/assets/e7f633b4-af45-40da-abb8-b831f7d39907">
 
 ### 3-
-<img width="499" alt="Screenshot 2024-10-21 at 9 11 11 AM" src="https://github.com/user-attachments/assets/f83696e3-d09c-4978-b5b6-93580c756344">
+
+![image](https://github.com/user-attachments/assets/d32e7695-6baa-4df9-977d-c1e99d13c11a)
 
 ### 4-
 <img width="490" alt="Screenshot 2024-10-21 at 9 11 40 AM" src="https://github.com/user-attachments/assets/901417e0-2285-465d-a1f0-6b91811ca84f">
